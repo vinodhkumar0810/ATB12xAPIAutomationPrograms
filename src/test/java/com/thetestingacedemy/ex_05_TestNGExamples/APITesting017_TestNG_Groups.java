@@ -1,5 +1,6 @@
 package com.thetestingacedemy.ex_05_TestNGExamples;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class APITesting017_TestNG_Groups {
